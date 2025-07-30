@@ -126,3 +126,5 @@
 6834	7136	1753263272016472602	/mnt/nvme/SSD/Daten/Visual-Studio/C-6/Blinkis/build/bootloader/.bin_timestamp	7341b04cf50e12f
 7136	7256	1753263272016472602	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	bec4109ed1945901
 7136	7256	1753263272016472602	/mnt/nvme/SSD/Daten/Visual-Studio/C-6/Blinkis/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	bec4109ed1945901
+24	203	1753854861857340660	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	bec4109ed1945901
+24	203	1753854861857340660	/mnt/nvme/SSD/Daten/Visual-Studio/C-6/Blinkis/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	bec4109ed1945901
